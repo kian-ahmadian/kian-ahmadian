@@ -14,3 +14,5 @@
 
 ### Contact With me
 [![Email](https://img.shields.io/badge/Email-dev.kian.ahmadian@gmail.com-blue?logo=Gmail&logoColor=white)](mailto:dev.kian.ahmadian@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/kian_ahmadian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kian-ahmadian/)
