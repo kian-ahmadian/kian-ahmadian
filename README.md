@@ -1,5 +1,6 @@
 ### Languages
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-black?logo=java&logoColor=rgb)](https://www.javascript.com/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
@@ -9,6 +10,7 @@
 
 ### IDE & Tools
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-red?logo=AndroidStudio)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
 
