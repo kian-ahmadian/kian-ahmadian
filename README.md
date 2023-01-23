@@ -12,8 +12,11 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-red?logo=AndroidStudio)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 
-
 ### Contact With me
 [![Email](https://img.shields.io/badge/Email-dev.kian.ahmadian@gmail.com-blue?logo=Gmail&logoColor=white)](mailto:dev.kian.ahmadian@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/kian_ahmadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kian-ahmadian/)
+
+--------
+
+[![Github Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&theme=react-dark&hide_border=false&area=true)](https://github.com/kian-ahmadian/)
