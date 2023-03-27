@@ -13,8 +13,9 @@
 -
 ### Contact With me
 [![Email](https://img.shields.io/badge/Email-dev.kian.ahmadian@gmail.com-blue?logo=Gmail&logoColor=white)](mailto:dev.kian.ahmadian@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@kian__ahmadian-blue?logo=Telegram&logoColor=white)](https://t.me/kian_ahmadian)
+[![Telegram](https://img.shields.io/badge/Telegram-@kian_ahmadian-blue?logo=Telegram&logoColor=white)](https://t.me/kian_ahmadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/kian--ahmadian-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kian-ahmadian/)
+[![Discord](https://img.shields.io/badge/Discord-Kian_Ahmadian%230001-blue?logo=Discord&logoColor=white)](https://www.discord.com/users/684748470799958033)
 [![My Site](https://img.shields.io/badge/My_site-kian--ahmadian.ir-blue?logo=GitHub&logoColor=white)](https://kian-ahmadian.ir)
 -
 <details><summary>GitHub Activity</summary>
