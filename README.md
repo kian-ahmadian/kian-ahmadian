@@ -16,7 +16,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@kian__ahmadian-blue?logo=Telegram&logoColor=26A5E4)](https://t.me/kian_ahmadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/kian--ahmadian-blue?logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/kian-ahmadian/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-users/15463651-blue?logo=StackOverflow&logoColor=F58025)](https://stackoverflow.com/users/15463651/kian-ahmadian)
-[![Codeforces](https://img.shields.io/badge/Codeforces-kian__ahmadian-blue?logo=Codeforces&logoColor=1F8ACB)](https://stackoverflow.com/users/15463651/kian-ahmadian)
+[![Codeforces](https://img.shields.io/badge/Codeforces-kian__ahmadian-blue?logo=Codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/kian_ahmadian)
 [![Discord](https://img.shields.io/badge/Discord-Kian_Ahmadian%230001-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/684748470799958033)
 [![My Site](https://img.shields.io/badge/My_site-kian--ahmadian.ir-blue?logo=GitHub&logoColor=white)](https://kian-ahmadian.ir)
 -
