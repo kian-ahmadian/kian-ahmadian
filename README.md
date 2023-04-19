@@ -1,3 +1,5 @@
+[![Typing](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=500&color=12F7AA&background=CE082300&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Kian+Ahmadian;Welcome+to+my+GitHub+page;Scroll+down+to+see+my+Info)](https://github.com/kian-ahmadian)
+
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
