@@ -1,5 +1,3 @@
-[![Typing](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=500&color=12F7AA&background=CE082300&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Kian+Ahmadian;Welcome+to+my+GitHub+page;Scroll+down+to+see+my+Info)](https://github.com/kian-ahmadian)
-
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
@@ -23,8 +21,11 @@
 [![Discord](https://img.shields.io/badge/Discord-Kian_Ahmadian%230001-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/684748470799958033)
 [![My Site](https://img.shields.io/badge/My_site-kian--ahmadian.ir-blue?logo=GitHub&logoColor=white)](https://kian-ahmadian.ir)
 -
-<details><summary>GitHub Activity</summary>
+<details><summary>GitHub State</summary>
 <br/>
-  
+
 [![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=true&radius=16)](https://github.com/kian-ahmadian/)
+
+<a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-stats.vercel.app/api?username=kian-ahmadian&show_icons=true&theme=onedark" height="192px"></a>
+<a href="https://github.com/kian-ahmadian"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kian-ahmadian&layout=compact&theme=onedark" height="192px"></a>
 </details>
