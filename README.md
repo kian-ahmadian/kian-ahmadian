@@ -1,3 +1,7 @@
+## Hello there ✋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+
+
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
@@ -11,7 +15,7 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-red?logo=AndroidStudio)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 -
-### Contact With me
+### Contact to Me with
 [![Email](https://img.shields.io/badge/Email-dev.kian.ahmadian@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:dev.kian.ahmadian@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@kian__ahmadian-blue?logo=Telegram&logoColor=26A5E4)](https://t.me/kian_ahmadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/kian--ahmadian-blue?logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/kian-ahmadian/)
@@ -23,9 +27,10 @@
 -
 <details><summary>GitHub State</summary>
 <br/>
-
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=true&radius=16)](https://github.com/kian-ahmadian/)
-
-<a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-stats.vercel.app/api?username=kian-ahmadian&show_icons=true&theme=onedark" height="192px"></a>
-<a href="https://github.com/kian-ahmadian"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kian-ahmadian&layout=compact&theme=onedark" height="192px"></a>
+<div align='center'>
+  <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=false&radius=16)" height="300px"></a>
+  <br/>
+  <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-stats.vercel.app/api?username=kian-ahmadian&show_icons=true&theme=onedark" height="170px"></a>
+  <a href="https://github.com/kian-ahmadian"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kian-ahmadian&layout=compact&theme=onedark" height="170px"></a>
+</div>
 </details>
