@@ -29,8 +29,4 @@
 <br/>
 <div align='center'>
   <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=false&radius=16)" height="300px"></a>
-  <br/>
-  <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-stats.vercel.app/api?username=kian-ahmadian&show_icons=true&theme=onedark" height="170px"></a>
-  <a href="https://github.com/kian-ahmadian"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kian-ahmadian&layout=compact&theme=onedark" height="170px"></a>
-</div>
 </details>
