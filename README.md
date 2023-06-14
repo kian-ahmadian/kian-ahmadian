@@ -28,5 +28,5 @@
 <details><summary>GitHub State</summary>
 <br/>
 <div align='center'>
-  <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-activity-graph.cyclic.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=false&radius=16)" height="300px"></a>
+  <a href="https://github.com/kian-ahmadian"><img alt="Kian Ahmadian's GitHub state" src="https://github-readme-activity-graph.vercel.app/graph?username=kian-ahmadian&bg_color=262312&color=4ddbff&line=04f6a5&point=ff0000&area=true&hide_border=false&radius=16)" height="300px"></a>
 </details>
