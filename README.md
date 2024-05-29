@@ -4,6 +4,7 @@
 
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![Type Script](https://img.shields.io/badge/Type_Script-110079?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java Script](https://img.shields.io/badge/Java_Script-black?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
@@ -21,7 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-dev.kian.ahmadian@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:dev.kian.ahmadian@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@kian__ahmadian-blue?logo=Telegram&logoColor=26A5E4)](https://t.me/kian_ahmadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/kian--ahmadian-blue?logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/kian-ahmadian/)
-[![Twitter](https://img.shields.io/badge/Twitter-@kian__ahmadian-blue?logo=x&logoColor=E7E6DD)](https://www.twitter.com/kian_ahmadian/)
+[![X](https://img.shields.io/badge/_-@kian__ahmadian-blue?logo=x&logoColor=E7E6DD)](https://www.X.com/kian_ahmadian/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-users/15463651-blue?logo=StackOverflow&logoColor=F58025)](https://stackoverflow.com/users/15463651/kian-ahmadian)
 [![Codeforces](https://img.shields.io/badge/Codeforces-kian__ahmadian-blue?logo=Codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/kian_ahmadian)
 [![Discord](https://img.shields.io/badge/Discord-@kian__ahmadian-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/684748470799958033)
